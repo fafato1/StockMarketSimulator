@@ -5,8 +5,6 @@ TOKEN = token.get('TOKEN')
 
 id_do_servidor =  815714353793466448
 
-bot = discord.Bot
-
 class client(discord.Client):
     def __init__(self):
         super().__init__(intents=discord.Intents.default())
