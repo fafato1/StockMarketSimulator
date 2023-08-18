@@ -165,3 +165,4 @@ key.py
 *.json
 *.cfg
 stockbot/Scripts/activate
+discord/Scripts/activate
